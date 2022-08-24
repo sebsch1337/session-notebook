@@ -10,3 +10,5 @@
 # UPLOAD
 
 - git push = Uploads all commited stages
+
+lorem ipsum...
