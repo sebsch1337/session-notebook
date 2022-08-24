@@ -11,4 +11,4 @@
 
 - git push = Uploads all commited stages
 
-lorem ipsum...
+lorem ipsummmmmmmmm!
